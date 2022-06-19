@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Batool Ali Ismail 
 - 👀 I’m interested in Robotics..
-- 💙 I'm learned ( Swift / Js / Java ) with Kuwait Codes
+- 💙 I'he learned ( Swift / Js / Java ) with Kuwait Codes
 - 🌱 I’m currently learning SwiftUI 🍎 ...
 
 <!---
